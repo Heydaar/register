@@ -1,0 +1,14 @@
+{
+    "description": "subscription link",
+    "domain": "localplayer.dev",
+    "subdomain": "soldierrotate",
+    "owner": {
+        "email": "soldier82110@gmail.com"
+    },
+    "record": {
+        "A": [
+            "176.222.54.44"
+        ]
+    },
+    "proxied": false
+}
